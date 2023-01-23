@@ -88,6 +88,6 @@ public class Main {
 
         workersNumbers=workersNumbers+94;
         totalworkTime=workersNumbers*onewokerTime;
-        System.out.println("Если в компании работает "+workersNumbers+" человек, то всего "+totalworkTime+" часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает "+workersNumbers+" человек, то всего "+totalworkTime+" часов работы может быть поделено между сотрудниками!");
     }
 }
